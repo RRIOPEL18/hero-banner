@@ -8,15 +8,16 @@ html {
 
 }
 
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 4rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff
+  position:absolute;
+
+}
+
 .img-flex {
   display: block;
   width: 100%;
-}
-
-title {
-  font-family: "Open Sans", sans-serif;
-}
-
-h1 {
-
 }
