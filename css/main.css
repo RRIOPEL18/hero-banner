@@ -32,6 +32,10 @@ p {
   left: 250px;
 }
 
+.banner {
+  max-width: 50em;
+}
+
 .img-flex {
   display: block;
   width: 100%;
