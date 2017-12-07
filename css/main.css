@@ -11,6 +11,11 @@ body {
   margin: 0;
 }
 
+div {
+  overflow: hidden;
+  position: relative;
+}
+
 h2 {
   font-family: "Open Sans", sans-serif;
   font-size: 4rem;
