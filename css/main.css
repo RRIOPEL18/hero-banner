@@ -19,7 +19,7 @@ div {
 h2 {
   font-family: "Open Sans", sans-serif;
   font-size: 4rem;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   color: #fff;
   position: absolute;
   bottom: 0;
